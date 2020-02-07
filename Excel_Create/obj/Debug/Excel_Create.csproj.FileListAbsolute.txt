@@ -1,0 +1,13 @@
+C:\Users\rezer\Desktop\WCF\Excel_Create\Excel_Create\obj\Debug\Excel_Create.csprojAssemblyReference.cache
+C:\Users\rezer\Desktop\WCF\Excel_Create\Excel_Create\obj\Debug\Excel_Create.csproj.ResolveComReference.cache
+C:\Users\rezer\Desktop\WCF\Excel_Create\Excel_Create\obj\Debug\Excel_Create.csproj.CoreCompileInputs.cache
+C:\Users\rezer\Desktop\WCF\Excel_Create\Excel_Create\bin\Debug\Excel_Create.exe.config
+C:\Users\rezer\Desktop\WCF\Excel_Create\Excel_Create\bin\Debug\Excel_Create.exe
+C:\Users\rezer\Desktop\WCF\Excel_Create\Excel_Create\bin\Debug\Excel_Create.pdb
+C:\Users\rezer\Desktop\WCF\Excel_Create\Excel_Create\obj\Debug\Excel_Create.exe
+C:\Users\rezer\Desktop\WCF\Excel_Create\Excel_Create\obj\Debug\Excel_Create.pdb
+C:\Users\rezer\Desktop\WCF\Excel_Create\Excel_Create\bin\Debug\EntityFramework.dll
+C:\Users\rezer\Desktop\WCF\Excel_Create\Excel_Create\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rezer\Desktop\WCF\Excel_Create\Excel_Create\bin\Debug\EntityFramework.xml
+C:\Users\rezer\Desktop\WCF\Excel_Create\Excel_Create\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rezer\Desktop\WCF\Excel_Create\Excel_Create\obj\Debug\Excel_Create.csproj.CopyComplete
